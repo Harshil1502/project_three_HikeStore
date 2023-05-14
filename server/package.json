@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "dependencies": {
     "cloudinary": "^1.35.0",
     "cors": "^2.8.5",
@@ -19,7 +22,6 @@
     "nodemon": "^2.0.22",
     "openai": "^3.2.1",
     "bson":"^5.1.0",
-    "mongodb": "5.5.0",
-    "node": ">=14.20.1"
+    "mongodb": "5.5.0"
   }
 }
